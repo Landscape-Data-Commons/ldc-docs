@@ -1,0 +1,8 @@
+- link: ./
+  name: Home
+- link: ./apis.html
+  name: APIs
+- link: ./data-portal.html
+  name: Data Portal
+- link: ./terradactyl.html
+  name: terradactyl
